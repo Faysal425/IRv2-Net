@@ -1,4 +1,5 @@
 Publication Title: IRv2-Net: A Deep Learning Framework for Enhanced Polyp Segmentation Performance Integrating InceptionResNetV2 and UNet Architecture with Test Time Augmentation Techniques
+
 Open access paper: https://doi.org/10.3390/s23187724
 
 Dataset Link: 
