@@ -1,3 +1,6 @@
+Publication Title: IRv2-Net: A Deep Learning Framework for Enhanced Polyp Segmentation Performance Integrating InceptionResNetV2 and UNet Architecture with Test Time Augmentation Techniques
+Open access paper: https://doi.org/10.3390/s23187724
+
 Dataset Link: 
 1) KVASIR-SEG: https://datasets.simula.no/kvasir-seg/
 2) CVC-ClinicDB: https://polyp.grand-challenge.org/CVCClinicDB/
